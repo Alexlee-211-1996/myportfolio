@@ -130,40 +130,6 @@ This portfolio features carefully crafted animations to enhance user experience:
 - **npm**, **pnpm**, or **yarn** package manager
 - **Git** for version control
 
-### **Installation**
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/YashPalav-26/portfolio-yash.git
-cd portfolio-yash
-```
-
-2. **Install dependencies**
-```bash
-npm install
-```
-
-3. **Set up environment variables**
-
-Create a `.env` file in the root directory:
-
-```env
-VITE_EMAILJS_SERVICE_ID=your_service_id
-VITE_EMAILJS_PUBLIC_KEY=your_public_key
-VITE_EMAILJS_TEMPLATE_ID=your_template_id
-```
-
-> **Note:** Get your EmailJS credentials at [emailjs.com](https://www.emailjs.com/)
-
-4. **Start the development server**
-```bash
-npm run dev
-```
-
-5. **Open your browser**
-Navigate to `http://localhost:5173`
-
----
 
 ## 📜 Available Scripts
 
